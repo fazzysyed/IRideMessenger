@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925886231994",
+    "firebase_url": "https://iridemessenger-df86b.firebaseio.com",
+    "project_id": "iridemessenger-df86b",
+    "storage_bucket": "iridemessenger-df86b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925886231994:android:9494faa22828e8d4",
+        "android_client_info": {
+          "package_name": "com.example.i_ridemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925886231994-u1t6djt18mgsbjkn3s6dj95e5r36bm1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.i_ridemessenger",
+            "certificate_hash": "907ac84158eb564a65fd6beaa80efc14a5c88bfa"
+          }
+        },
+        {
+          "client_id": "925886231994-e1vrabfobic2b9j4e4l4dmouvqdevovt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaS-LV_nixOibb1uc3vVXexgcZmUzm_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925886231994-e1vrabfobic2b9j4e4l4dmouvqdevovt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
